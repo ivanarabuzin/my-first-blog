@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Europe/Novi Sad'
+TIME_ZONE = 'Europe/Belgrade'
 
 USE_I18N = True
 
